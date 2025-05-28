@@ -1,27 +1,27 @@
 {
   "Products" :[
     {
-      "title":Tacos de pastor,
-      "price":$50,
-      "description":Saben buenos,
-      "raiting":5,
-      "thumbnail":,
+      "title": "Tacos de pastor",
+      "price": "50",
+      "description": "Saben buenos",
+      "raiting":"5",
+      "thumbnail":"https://raw.githubusercontent.com/justhin-sanchez/imagenes-ios/refs/heads/main/pastor.jpg"
 
     },
      {
-      "title":aguas frescas,
-      "price":$45,
-      "description":refrescantes,
-      "raiting":4,
-      "thumbnail":,
+      "title":"aguas frescas",
+      "price":"45",
+      "description":"refrescantes",
+      "raiting":"4",
+      "thumbnail":"https://raw.githubusercontent.com/justhin-sanchez/imagenes-ios/refs/heads/main/aguas.jpg"
 
     },
      {
-      "title":Tacos de bistec,
-      "price":$60,
-      "description":llenadores,
-      "raiting":5,
-      "thumbnail":,
+      "title":"Tacos de bistec",
+      "price":"60",
+      "description":"llenadores",
+      "raiting":"5",
+      "thumbnail":"https://raw.githubusercontent.com/justhin-sanchez/imagenes-ios/refs/heads/main/tacos.jpg"
 
     }
   ]
